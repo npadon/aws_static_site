@@ -1,0 +1,1 @@
+Uses AWS CloudFormation to create an S3 bucket, CloudFront distribution, Route 53 DNS entry, and associated SSL certificate.
